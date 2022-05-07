@@ -1,0 +1,75 @@
+{
+  "pages": [
+    "pages/shop/index",
+    "pages/shop/search",
+    "pages/shop/cart",
+    "pages/user/profile",
+    "pages/login/login",
+    "pages/login/passwordLogin",
+    "pages/login/smsCode",
+    "pages/login/privateProtocol",
+    "pages/login/userProtocol",
+    "pages/goods/goods",
+    "pages/goods/list",
+    "pages/topic/detail",
+    "pages/order/list",
+    "pages/order/detail",
+    "pages/favorite/favorite",
+    "pages/address/list",
+    "pages/address/address",
+    "pages/checkout/checkout",
+    "pages/setting/setting",
+    "pages/setting/updatePwd",
+    "pages/setting/updateMobile",
+    "pages/setting/updateAvatar",
+    "pages/setting/about",
+    "pages/setting/document",
+    "pages/setting/app",
+    "pages/order/payment/payment",
+    "pages/order/express",
+    "pages/order/payment/callback",
+    "pages/menu/index",
+    "pages/menu/list"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "简值",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#303133",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/shop/index",
+        "iconPath": "static/img/nav/home.png",
+        "selectedIconPath": "static/img/nav/home_sel.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/menu/index",
+        "iconPath": "static/img/nav/category.png",
+        "selectedIconPath": "static/img/nav/category_sel.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/shop/cart",
+        "iconPath": "static/img/nav/cart.png",
+        "selectedIconPath": "static/img/nav/cart_sel.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/user/profile",
+        "iconPath": "static/img/nav/user.png",
+        "selectedIconPath": "static/img/nav/user_sel.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

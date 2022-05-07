@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.wrap.data-v-5d053e52 {
+  padding: 0rpx 30rpx;
+}
+.wrap .item.data-v-5d053e52 {
+  width: 100%;
+  padding: 40rpx 20rpx;
+}
+.wrap .item .top.data-v-5d053e52 {
+  display: flex;
+  font-weight: bold;
+  font-size: 34rpx;
+}
+.wrap .item .top .phone.data-v-5d053e52 {
+  margin-left: 60rpx;
+}
+.wrap .item .top .tag.data-v-5d053e52 {
+  display: flex;
+  font-weight: normal;
+  align-items: center;
+}
+.wrap .item .top .tag text.data-v-5d053e52 {
+  display: block;
+  width: 60rpx;
+  height: 34rpx;
+  line-height: 34rpx;
+  color: #ffffff;
+  font-size: 20rpx;
+  border-radius: 6rpx;
+  text-align: center;
+  margin-left: 30rpx;
+  background-color: #3191fd;
+}
+.wrap .item .top .tag .red.data-v-5d053e52 {
+  background-color: red;
+}
+.wrap .item .bottom.data-v-5d053e52 {
+  display: flex;
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  justify-content: space-between;
+  color: #999999;
+}
+.wrap .addSite.data-v-5d053e52 {
+  display: flex;
+  justify-content: space-around;
+  width: 600rpx;
+  line-height: 100rpx;
+  position: absolute;
+  bottom: 30rpx;
+  left: 80rpx;
+  background-color: red;
+  border-radius: 60rpx;
+  font-size: 30rpx;
+}
+.wrap .addSite .add.data-v-5d053e52 {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+.wrap .addSite .add .icon.data-v-5d053e52 {
+  margin-right: 10rpx;
+}
+

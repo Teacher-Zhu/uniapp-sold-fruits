@@ -1,0 +1,29 @@
+
+.wrap.data-v-b7968d28 {
+	padding: 10rpx 30rpx 30rpx 30rpx;
+}
+.pp-title1.data-v-b7968d28 {
+	font-size: 32rpx;
+	font-weight: bold;
+}
+.pp-title2.data-v-b7968d28 {
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.pp-title3.data-v-b7968d28 {
+	font-size: 28rpx;
+	padding-left: 10rpx;
+}
+.pp-content.data-v-b7968d28 {
+	font-size: 28rpx;
+	text-indent: 50rpx;
+	margin: 20rpx 0rpx;
+	text-align: justify;
+}
+.pp-strong.data-v-b7968d28 {
+	font-weight: bold;
+}
+.pp-items.data-v-b7968d28 {
+	padding-left: 20rpx;
+}
+

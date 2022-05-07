@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-parse": "/uview-ui/components/u-parse/u-parse",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-image": "/uview-ui/components/u-image/u-image"
+  }
+}

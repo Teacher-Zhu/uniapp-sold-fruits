@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.wrap.data-v-7ced2606 {
+  padding: 0rpx 30rpx;
+}
+.gl-body.data-v-7ced2606 {
+  padding-bottom: 80rpx;
+}
+.gl-title.data-v-7ced2606 {
+  padding: 20rpx;
+}
+.gl-img.data-v-7ced2606 {
+  padding: 30rpx;
+}
+.gl-name.data-v-7ced2606 {
+  font-size: 26rpx;
+}
+.gl-descript.data-v-7ced2606 {
+  font-size: 20rpx;
+}
+.gl-price.data-v-7ced2606 {
+  font-size: 24rpx;
+  color: #FA3534;
+}
+.navbar-right.data-v-7ced2606 {
+  margin-right: 24rpx;
+  display: flex;
+}
+.link-text.data-v-7ced2606 {
+  font-size: 28rpx;
+}
+.navigation.data-v-7ced2606 {
+  width: 100%;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  margin-top: 100rpx;
+  border: solid 2rpx #f2f2f2;
+  background-color: #ffffff;
+  padding: 16rpx 0;
+  justify-content: space-between;
+}
+.navigation .left.data-v-7ced2606 {
+  display: flex;
+  font-size: 20rpx;
+}
+.navigation .left .item.data-v-7ced2606 {
+  margin: 0 8rpx;
+}
+.navigation .right.data-v-7ced2606 {
+  display: flex;
+  font-size: 28rpx;
+  align-items: center;
+  margin-right: 60rpx;
+}
+.no-data.data-v-7ced2606 {
+  padding: 0rpx 30rpx;
+  margin-top: 50%;
+}
+.no-data .content.data-v-7ced2606 {
+  text-align: center;
+  color: lightgray;
+  margin-bottom: 30rpx;
+}
+

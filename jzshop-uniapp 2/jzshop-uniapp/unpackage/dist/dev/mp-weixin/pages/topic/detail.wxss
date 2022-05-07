@@ -1,0 +1,16 @@
+
+.title {
+	font-size: 28rpx;
+	font-weight: bold;
+	text-align: center;
+}
+.i-item{
+	margin-top:30rpx;
+}
+.i-title {
+	margin-top:10rpx;
+	font-size:24rpx;
+	padding:20rpx;
+	background-color: #979595;
+}
+

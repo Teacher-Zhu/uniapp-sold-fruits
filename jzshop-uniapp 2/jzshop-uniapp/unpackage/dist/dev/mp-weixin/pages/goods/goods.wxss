@@ -1,0 +1,120 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.goods-detail-wrapper.data-v-5566b618 {
+  padding-bottom: 140rpx;
+}
+.content.data-v-5566b618 {
+  padding: 30rpx;
+}
+.content .title.data-v-5566b618 {
+  font-size: 32rpx;
+}
+.content .desc.data-v-5566b618 {
+  font-size: 12px;
+  color: #999999;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin: 6px 0;
+}
+.content .price.data-v-5566b618 {
+  color: #FA3534;
+  font-size: 24rpx;
+}
+.content .express.data-v-5566b618 {
+  color: #999;
+  font-size: 24rpx;
+  padding: 10rpx 0rpx;
+}
+.navigation.data-v-5566b618 {
+  width: 100%;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  margin-top: 100rpx;
+  border: solid 2rpx #f2f2f2;
+  background-color: #ffffff;
+  padding: 16rpx 0;
+}
+.navigation .left.data-v-5566b618 {
+  display: flex;
+  font-size: 20rpx;
+}
+.navigation .left .item.data-v-5566b618 {
+  margin: 0 30rpx;
+}
+.navigation .left .item.car.data-v-5566b618 {
+  text-align: center;
+  position: relative;
+}
+.navigation .left .item.car .car-num.data-v-5566b618 {
+  position: absolute;
+  top: -10rpx;
+  right: -10rpx;
+}
+.navigation .right.data-v-5566b618 {
+  display: flex;
+  font-size: 28rpx;
+  align-items: center;
+}
+.navigation .right .btn.data-v-5566b618 {
+  line-height: 66rpx;
+  padding: 0 30rpx;
+  border-radius: 36rpx;
+  color: #ffffff;
+}
+.navigation .right .cart.data-v-5566b618 {
+  background-color: #ed3f14;
+  margin-right: 30rpx;
+}
+.navigation .right .buy.data-v-5566b618 {
+  background-color: #ff7900;
+}
+.sku.data-v-5566b618 {
+  padding: 24rpx 32rpx;
+}
+.sku .goods .right.data-v-5566b618 {
+  padding-left: 20rpx;
+}
+.sku .goods .right .price.data-v-5566b618 {
+  color: #FA3534;
+  font-size: 34rpx;
+}
+.sku .goods .right .stock.data-v-5566b618 {
+  margin-top: 8px;
+  color: #969799;
+  font-size: 12px;
+}
+.sku .goods .right .stock .stock_num.data-v-5566b618 {
+  margin-right: 16rpx;
+  margin-left: 16rpx;
+}
+.sku .goods .right .tips.data-v-5566b618 {
+  margin-top: 8px;
+  color: #969799;
+  font-size: 12px;
+  line-height: 16px;
+}
+.sku .sku-list .tree.data-v-5566b618 {
+  margin-top: 30rpx;
+}
+.sku .sku-list .tree .title.data-v-5566b618 {
+  padding-bottom: 12px;
+}
+.sku .sku-list .node-list .node.data-v-5566b618 {
+  justify-content: center;
+  min-width: 80rpx;
+  margin: 0 24rpx 24rpx 0;
+  line-height: 24rpx;
+  vertical-align: middle;
+}
+.sku .count.data-v-5566b618 {
+  padding: 24rpx 0rpx;
+  overflow: hidden;
+  line-height: 60rpx;
+  padding-bottom: 60rpx;
+}
+

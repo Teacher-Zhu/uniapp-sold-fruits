@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改密码",
+  "usingComponents": {
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

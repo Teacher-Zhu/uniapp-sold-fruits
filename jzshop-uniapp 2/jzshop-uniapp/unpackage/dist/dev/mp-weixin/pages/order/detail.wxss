@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.order_detail.data-v-57d42baa {
+  margin: 30rpx;
+}
+.order_detail .top .address_detail.data-v-57d42baa {
+  padding: 5px;
+}
+.order_detail .top .footer_btn.data-v-57d42baa {
+  text-align: right;
+}
+.order_detail .top .footer_btn .u-btn.data-v-57d42baa {
+  margin-left: 20rpx;
+}
+.order_detail .content.data-v-57d42baa {
+  margin-top: 40rpx;
+}
+.order_detail .content .total.data-v-57d42baa {
+  text-align: right;
+  padding: 10px;
+}
+.order_detail .content .list .item.data-v-57d42baa {
+  margin-top: 20rpx;
+}
+.order_detail .content .list .item .gl-name.data-v-57d42baa {
+  font-size: 26rpx;
+}
+.order_detail .content .list .item .gl-descript.data-v-57d42baa {
+  margin-top: 14rpx;
+  font-size: 20rpx;
+}
+.order_detail .content .list .item .gl-price.data-v-57d42baa {
+  margin-top: 26rpx;
+  font-size: 24rpx;
+}
+

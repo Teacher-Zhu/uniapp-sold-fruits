@@ -1,0 +1,18 @@
+
+.gl-title {
+	padding: 20rpx;
+}
+.gl-img {
+	padding: 30rpx;
+}
+.gl-name {
+	font-size: 26rpx;
+}
+.gl-descript {
+	font-size: 20rpx;
+}
+.gl-price {
+	font-size: 24rpx;
+	color: #FA3534;
+}
+

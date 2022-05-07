@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.u-wrap.data-v-58ec6c25 {
+  height: calc(100vh);
+  display: flex;
+  flex-direction: column;
+}
+.u-search-box.data-v-58ec6c25 {
+  padding: 10rpx 30rpx;
+}
+.u-search-inner.data-v-58ec6c25 {
+  background-color: #eaeaea;
+  border-radius: 100rpx;
+  display: flex;
+  align-items: center;
+  padding: 10rpx 16rpx;
+}
+.u-search-text.data-v-58ec6c25 {
+  font-size: 24rpx;
+  color: #909399;
+  margin-left: 10rpx;
+}
+.gl-title.data-v-58ec6c25 {
+  padding: 20rpx;
+}
+.gl-img.data-v-58ec6c25 {
+  padding: 30rpx;
+}
+.gl-name.data-v-58ec6c25 {
+  font-size: 26rpx;
+}
+.gl-descript.data-v-58ec6c25 {
+  font-size: 20rpx;
+}
+.gl-price.data-v-58ec6c25 {
+  font-size: 24rpx;
+  color: #FA3534;
+}
+

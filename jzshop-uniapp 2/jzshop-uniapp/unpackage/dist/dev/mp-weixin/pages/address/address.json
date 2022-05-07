@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "编辑收货地址",
+  "usingComponents": {
+    "u-switch": "/uview-ui/components/u-switch/u-switch",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-picker": "/uview-ui/components/u-picker/u-picker",
+    "u-select": "/uview-ui/components/u-select/u-select"
+  }
+}
